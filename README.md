@@ -41,7 +41,3 @@ This automated support ticket classification system:
 ✨ Speeds up issue resolution  
 ✨ Improves customer satisfaction  
 ✨ Enhances overall support operations  
-
-## 👩‍💻 Author
-**Priya Jamana**  
-B.Tech Student | Machine Learning & Data Science Enthusiast  
